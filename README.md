@@ -11,9 +11,9 @@ A sales lead is a potential sales contact, an individual or organization that ex
 
 ## Setting up project
 
-**1.** **Fork** this project by clicking the _Fork_ button on top right corner of this page.
+**1.** **Fork** this project by clicking the _Fork_ button on the top right corner of this page.
 
-**2.** **Clone** the repository by running following command in [git](https://git-scm.com/):
+**2.** **Clone** the repository by running the following command in [git](https://git-scm.com/):
 ```
 $ git clone https://github.com/[YOUR-USERNAME]/lead-management-server.git
 ```
@@ -39,13 +39,13 @@ $ npm start
 
 **1.** Make reasonable changes.
 
-**2.** **Add all changes** by running this command on the terminal/command prompt:
+**2.** **Add all changes** by running this command on terminal/command prompt:
 ```
 $ git add .
 ```
 
-The above command will add all files to the staging area.
-Or to add specific files only, run this command:
+The above command will add all files to the staging area, 
+or to add specific files only, run this command:
 ```
 $ git add path/to/your/file
 ```
@@ -64,7 +64,7 @@ Make sure you push only to your branch.
 **5.** **Create a Pull Request** by clicking the _New Pull Request_ button on your repository page.
 
 ## Help
-If you need any help anywhere in the process, you can always ask a question on our [Gitter Chat](https://gitter.im/jboss-outreach/gci).
+If you need any help during the process, you can always ask a question on our [Gitter Chat](https://gitter.im/jboss-outreach/gci).
 
 
-Happy Coding!
+Happy coding!
